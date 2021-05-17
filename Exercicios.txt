@@ -1,0 +1,56 @@
+Os Exercicios para exercitar a capacidade de interpretar o problema descrito, pensando na solucao e tranformando
+o pensamento em uma sequencia de instrucoes (Algoritmo).
+
+1. Faça um algoritmo que receba do usuário quatro notas de um aluno, uma de cada bimestre, 
+e calcule a média final. Imprima para o usuário a média final e se o aluno foi APROVADO ou 
+REPROVADO, considerando que a média de aprovação seja igual ou superior a seis.
+
+2. Faça um algoritmo que entre o preço de um produto e o valor em dinheiro pago. Mostre 
+para o usuário o quanto será o troco.
+
+3. Faça um algoritmo que leia três valores e retorne o maior e o menor deles.
+
+4. Faça um algoritmo que leia as dimensões de um terreno e imprima na tela a área deste 
+terreno. Considerando que o preço do metro quadrado é de R$ 7.592,00 , imprima o valor 
+total que custará o terreno calculado.
+
+5. Faça um algoritmo para ler um número inteiro N e calcule o somatório de 1 até N. Imprima 
+na tela o resultado da soma.
+
+6. Faça um algoritmo que receba o valor dos catetos de um triângulo e imprima na tela o valor 
+da hipotenusa.
+
+7. Faça um algoritmo que leia o peso e a altura de uma pessoa e calcule o IMC dela, imprimindo 
+o valor calculado e em qual faixa essa pessoa se encontra.
+
+8. Faça um algoritmo que receba uma temperatura em graus Celsius e imprima ela convertida 
+em Fahrenheit.
+
+9. Considerando a estrutura da equação de segundo grau: ax²+bx+c = 0
+Faça um algoritmo que leia o valor de a, b e c e calcule as possíveis raízes da equação.
+
+10. Uma empresa possui uma estatística de controle de tempo de trabalho dos funcionários em 
+quantidade de dias. Faça um algoritmo que leia a quantidade de dias trabalhadas pelo 
+funcionário e imprima essa informação convertida em anos, meses e dias. Considere que 
+todos os meses possuem sempre 30 dias.
+
+11. Arthur possui um cofre onde ele guarda todas as moedas que ganha dos pais e dos avós.
+Vamos ajudar Arthur a saber quanto dinheiro ele conseguiu poupar em reais. Escreva um 
+algoritmo que leia a quantidade de moedas de cada valor e imprima o valor total em reais. 
+Considere que existam moedas de 1, 5, 10, 25 e 50 centavos, e ainda moedas de 1 real. Caso 
+não exista uma moeda de algum dos tipos, a respectiva quantidade é igual a zero.
+
+12. Em um contrato de aluguel está estipulado que, após a data de vencimento, o pagamento 
+deve ser acrescido de um valor de multa e acrescido de juros proporcional ao número de dias 
+do atraso. Considerando a multa como 3% do valor do aluguel e o juros de 0.5% do valor do 
+aluguel por dia de atraso, faça um algoritmo que receba o valor do aluguel e a quantidade de 
+dias de atraso e imprima o valor que deverá ser pago.
+
+13. Para um determinado funcionário, uma empresa sem uma ficha contendo: o nome, o 
+número de horas trabalhadas e o número de dependentes que o funcionário possui.
+Considerando:
+a. A empresa paga R$17 reais por hora 
+b. A empresa paga um adicional de R$ 34 por dependente
+c. É descontado um valor de 8.5% para o INSS e 5% para o IR
+Faça um algoritmo que leia as informações da ficha do funcionário e imprima qual o nome, o 
+salário bruto, os valores descontados para cada imposto e o salário líquido do funcionário
