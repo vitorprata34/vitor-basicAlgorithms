@@ -12,7 +12,7 @@ public class Exercicio02 {
         System.out.println("Por favor digite o valor dado em dinheiro:");
         double v2 = imput.nextDouble();
         
-        double troco = v1-v2;
+        double troco = v2-v1;
         System.out.println("O troco e R$"+ troco);
         
         imput.close();
